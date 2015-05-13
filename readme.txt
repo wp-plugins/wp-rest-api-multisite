@@ -3,7 +3,7 @@ Contributors: the_glu
 Tags: rest, api, json, multisite
 Requires at least: 3.7.0
 Tested up to: 4.2.2
-Stable tag: master
+Stable tag: 0.1
 License: MIT
 
 Very simple wordpress plugin who add the posibility to list all sites in WP REST API.
